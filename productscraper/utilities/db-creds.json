@@ -1,0 +1,18 @@
+{
+	"lowes_competition": {
+		"account": "lowes",
+		"username": "lowes_cm_write_user",
+		"password": "hGkEmUBIKMLEvAoZ",
+		"db": "LOWES",
+		"warehouse": "LOWES_WH",
+		"type": "snowflake"
+	},
+	"lowesca_competition": {
+		"account": "lowes",
+		"username": "lowesca_cm_write_user",
+		"password": "VTEnmDogOozqofRL",
+		"db": "LOWESCA",
+		"warehouse": "LOWESCA_WH",
+		"type": "snowflake"
+	}
+}
