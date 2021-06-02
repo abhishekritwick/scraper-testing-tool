@@ -39,4 +39,4 @@ simplejson==3.17.0
 six==1.12.0
 snowflake-connector-python==2.0.3
 uritemplate==3.0.0
-urllib3==1.24.3
+urllib3==1.26.5
